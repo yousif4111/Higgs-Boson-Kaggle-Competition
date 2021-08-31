@@ -18,3 +18,5 @@ For this project, we are using a Higgs Boson dataset downloaded from OpenML webs
 ### Logistic Regression
 ### Random Forest
 ### Extreme Gradient Boosting (XGBoost)
+# Result
+![image](https://user-images.githubusercontent.com/46527978/131493926-cc69967c-a89e-4cf3-8171-4a2c99b7dd14.png)
