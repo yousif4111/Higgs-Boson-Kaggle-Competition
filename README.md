@@ -1,4 +1,4 @@
-# Higgs-Boson-Kaggle-Competition
+# Higgs-Boson
 ## Background
 The Discovery of Higgs Boson, which is an elementary particle of particle physics, was recently claimed by the ATLAS experiment and the CMS experiment. This discovery was acknowledged by the 2013 Nobel prize in physics given to Francois Englert and Peter Higgs. The related experiments are running at the Large Hadron Collider which is commonly known as LHC at CERN (the European Organization for Nuclear Research), Geneva, Switzerland; which began operating in 2009 after about 20 years of design and construction.
 ![image](https://user-images.githubusercontent.com/46527978/131399408-59cbbf7d-a07e-4316-a11d-b2200198d824.png)
